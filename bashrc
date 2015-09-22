@@ -21,5 +21,5 @@ fi
 
 export HISTSIZE=10000
 export HISTFILESIZE=50000
-export HISTIGNORE=history*
+#export HISTIGNORE=history*
 #export HISTCONTROL=ignorespace
